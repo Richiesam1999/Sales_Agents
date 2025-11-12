@@ -1,0 +1,9 @@
+pandas==2.0.3
+openpyxl==3.1.2
+anthropic==0.25.0
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+sqlite3  # Built-in with Python
+msal==1.24.0  # Microsoft Authentication Library for Power BI
+requests==2.31.0  # HTTP library for Power BI API calls
